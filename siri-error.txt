@@ -1,0 +1,11 @@
+convenorapeapcet2025@gmail.com
+
+sirivszconsultancy@gmail.com
+9490317794
+
+This site can’t be reached  
+The web page at https://eapcet-sche.aptonline.in/EAPCET/paymentFailurePage?...  
+resp=CFO8077F41B566AB[FAILED | Technical error at the customer's bank end.  
+Request user to try again.might be temporarily down or it may have moved permanently to a new web address
+
+ERR_HTTP2_PROTOCOL_ERROR
